@@ -1,0 +1,24 @@
+.page-contanier{
+    height: 100%;
+}
+
+.side-bar{
+    margin-top: 60px;
+    height:  120px;
+    width: 110%;
+    background-color: rgb(56, 84, 241);
+    margin-right: 0px;
+}
+.side-bar-list{
+  background-color: rgb(66, 66, 226);
+  width:20%;
+}
+.sidebar-content{
+	background-color:#00ff99;
+    height: 20%;
+}
+.sidebar-contanier{
+   height: 20%;
+   margin-top: 200px;
+}
+
